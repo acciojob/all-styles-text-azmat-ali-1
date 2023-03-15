@@ -5,7 +5,7 @@
             background-color: rgb(128, 0, 128);
            
             border-left-width: 5px;
-            border-style: solid;
+            border-left-style: solid;
             border-left-color: rgb(0, 128, 0);
             padding: 10px;
         }
