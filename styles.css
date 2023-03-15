@@ -6,7 +6,7 @@
             border-left-width: 5px;
             border-left-style: solid;
             border-left-color: rgb(0, 128, 0);
-            padding-left: 10px;
+            padding : 10px;
         }
         h1{
             font-size: 20px;
